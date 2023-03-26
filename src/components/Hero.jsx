@@ -22,7 +22,9 @@ const Hero = () => {
           className="flex absolute bottom-16 md:bottom-24 left-0 md:left-7 m-5 md:m-0"
         >
           <div className="backdrop-opacity-10 rounded-2xl bg-white/50 p-5 bg-opacity-60 shadow-2xl shadow-stone-500/50">
-            <h1 className="text-6xl uppercase lg:text-6xl">Dra.</h1>
+            <h1 className="text-6xl uppercase lg:text-6xl text-[#BF8B01] font-bold">
+              Dra.
+            </h1>
             <h1 className="text-6xl uppercase lg:text-6xl font-bold">
               Camila
               <br />
