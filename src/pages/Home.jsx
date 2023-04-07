@@ -2,6 +2,7 @@ import React from "react";
 import Brand from "../components/Brand";
 import BtnUp from "../components/BtnUp";
 import CardInicial from "../components/CardInicial";
+import ComecarTratamento from "../components/ComecarTratamento";
 import Contact from "../components/Contact";
 import Cta from "../components/Cta";
 import Diferenciais from "../components/Diferenciais";
@@ -35,6 +36,8 @@ const Home = () => {
 
           {/* Card inicial area */}
           <Tratamentos />
+
+          <ComecarTratamento />
 
           {/* Diferentials area */}
           <Diferenciais />
