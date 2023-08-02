@@ -19,7 +19,7 @@ const Contact = () => {
         <div className="flex flex-col w-full">
           <div className="w-full flex justify-center">
             <a
-              href="https://www.google.com/maps/dir//Psiquiatra+Macap%C3%A1+-+Dra+Camila+Neiva+R.+Manoel+Eud%C3%B3xio+Pereira,+826+-+Centro+Macap%C3%A1+-+AP+68900-021/@0.0426545,-51.0660276,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8d61e10bcf1b86ed:0x6f027f4a0e7e4563!2m2!1d-51.0660276!2d0.0426545"
+              href="https://goo.gl/maps/uHgGtzrjd6b5ANrv9"
               target="_blank"
               rel="noreferrer"
             >
@@ -36,7 +36,7 @@ const Contact = () => {
               height="615"
               loading="lazy"
               allowFullScreen
-              src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ7YYbzwvhYY0RY0V-Dkp_Am8&key=AIzaSyAKyXjIGENqlWQFa4Pzk5HwUhuxpnmLZ_s"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8177541712066!2d-51.06587882426687!3d0.030523564393975137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d61e10bcf1b86ed%3A0x6f027f4a0e7e4563!2sPsiquiatra%20em%20Macap%C3%A1%20-%20Dra.%20Camila%20Neiva!5e0!3m2!1spt-BR!2sbr!4v1690810898630!5m2!1spt-BR!2sbr"
             ></iframe>
           </div>
         </div>
